@@ -1,8 +1,9 @@
 # GIT-Practise2
-practicing GIT 101. 
+practicing GIT 101.
 
-created repo in github,
+Monika created repo in github,
 cloned the repo in local and made sm changes.
 git add.
-git commit -m "..."
+git commit -a "..." #Commits the changes
 
+Dipesh clones the repo and pushes his commit
