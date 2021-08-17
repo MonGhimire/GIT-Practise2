@@ -6,5 +6,4 @@ cloned the repo in local and made sm changes.
 git add.
 git commit -a "..."
 
-
 Dipesh clones the repo and pushes his commit
